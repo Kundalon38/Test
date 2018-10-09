@@ -6,7 +6,7 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world-aft-reins10");
+            Console.WriteLine("Hello world-aft-reins11");
             var buf = Console.Read();
         }
     }
